@@ -11,7 +11,7 @@
                 <img align="center" src="https://img.shields.io/badge/react-552d2b?&style=for-the-badge&logo=react&logoColor=white"/>
             </a>
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/mongodb-442422?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+                <img align="center" src="https://img.shields.io/badge/SQlite-442422?&style=for-the-badge&logo=sqlite&logoColor=white"/>
             </a>
              <a align="center">
                 <img align="center" src="https://img.shields.io/badge/typescript-331b1a?&style=for-the-badge&logo=typescript&logoColor=white"/>
